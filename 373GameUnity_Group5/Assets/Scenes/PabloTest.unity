@@ -443,6 +443,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: de
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cc99ccb27e5654947ba27656749f38dd, type: 3}
+      propertyPath: m_TagString
+      value: RedOrb
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cc99ccb27e5654947ba27656749f38dd, type: 3}
 --- !u!1 &365173311 stripped
@@ -948,7 +952,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Red Orbs:'
+  m_Text: 
 --- !u!222 &1978413972
 CanvasRenderer:
   m_ObjectHideFlags: 0
