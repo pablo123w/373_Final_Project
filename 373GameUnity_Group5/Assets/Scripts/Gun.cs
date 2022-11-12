@@ -20,7 +20,7 @@ public class Gun : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if(Input.GetKeyDown("1") && Time.time > nextFireRate)
+        if(Input.GetKeyDown("1"))
         {
             Shoot();
         }
