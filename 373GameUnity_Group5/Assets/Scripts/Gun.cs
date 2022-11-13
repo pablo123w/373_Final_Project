@@ -32,7 +32,7 @@ public class Gun : MonoBehaviour
         GameObject newProjectile = Instantiate(Gbullet);
         newProjectile.transform.position = spawn.transform.position;
         newProjectile.transform.rotation = transform.rotation;
-       // newProjectile.SetActive(true);
+       newProjectile.SetActive(true);
         newProjectile.GetComponent<Rigidbody>().AddForce(transform.forward * speed);
         Destroy(newProjectile, 5f);
 
