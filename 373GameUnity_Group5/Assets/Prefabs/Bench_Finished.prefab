@@ -42,6 +42,7 @@ GameObject:
   - component: {fileID: 439230418565354154}
   - component: {fileID: 439230418565354152}
   - component: {fileID: 439230418565354153}
+  - component: {fileID: 2472894324784050822}
   m_Layer: 0
   m_Name: BenchBullShit_BackLeggie_hi (1)
   m_TagString: Untagged
@@ -112,6 +113,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2472894324784050822
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 439230418565354155}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3495818745056955570, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &439230419416058496
 GameObject:
   m_ObjectHideFlags: 0
@@ -123,6 +138,7 @@ GameObject:
   - component: {fileID: 439230419416058503}
   - component: {fileID: 439230419416058501}
   - component: {fileID: 439230419416058502}
+  - component: {fileID: 7710781580974733662}
   m_Layer: 0
   m_Name: Bench_Bottom_hi (1)
   m_TagString: Untagged
@@ -193,6 +209,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7710781580974733662
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 439230419416058496}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6917395692095632641, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &439230420005656854
 GameObject:
   m_ObjectHideFlags: 0
@@ -204,6 +234,7 @@ GameObject:
   - component: {fileID: 439230420005656853}
   - component: {fileID: 439230420005656843}
   - component: {fileID: 439230420005656852}
+  - component: {fileID: 744161693168818563}
   m_Layer: 0
   m_Name: Bench_UpperLeggie_hi (1)
   m_TagString: Untagged
@@ -274,6 +305,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &744161693168818563
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 439230420005656854}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4196844667247116643, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &439230420117247786
 GameObject:
   m_ObjectHideFlags: 0
@@ -285,6 +330,7 @@ GameObject:
   - component: {fileID: 439230420117247785}
   - component: {fileID: 439230420117247791}
   - component: {fileID: 439230420117247784}
+  - component: {fileID: 5700591064277017393}
   m_Layer: 0
   m_Name: Bench_Seat_hi (1)
   m_TagString: Untagged
@@ -355,6 +401,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5700591064277017393
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 439230420117247786}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3131434800883863953, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &439230420411138522
 GameObject:
   m_ObjectHideFlags: 0
@@ -366,6 +426,7 @@ GameObject:
   - component: {fileID: 439230420411138521}
   - component: {fileID: 439230420411138527}
   - component: {fileID: 439230420411138520}
+  - component: {fileID: 6303935989552316088}
   m_Layer: 0
   m_Name: Bench_InnerThingy_hi (1)
   m_TagString: Untagged
@@ -436,6 +497,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6303935989552316088
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 439230420411138522}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2974591852001385744, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &781687263708741960
 GameObject:
   m_ObjectHideFlags: 0
@@ -478,6 +553,7 @@ GameObject:
   - component: {fileID: 8083512367926082090}
   - component: {fileID: 5373042770615189802}
   - component: {fileID: 8979684143509934533}
+  - component: {fileID: 7873721751532888526}
   m_Layer: 0
   m_Name: Bench_Topper_hi
   m_TagString: Untagged
@@ -548,6 +624,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7873721751532888526
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 889186736080602827}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6243321753051902222, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &1458824902426376959
 GameObject:
   m_ObjectHideFlags: 0
@@ -559,6 +649,7 @@ GameObject:
   - component: {fileID: 1534122429979519432}
   - component: {fileID: 4724081106624265502}
   - component: {fileID: 3390632019583605829}
+  - component: {fileID: 9037530815380318585}
   m_Layer: 0
   m_Name: Bench_Bottom_hi
   m_TagString: Untagged
@@ -629,6 +720,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &9037530815380318585
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1458824902426376959}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6917395692095632641, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &2646236805944521136
 GameObject:
   m_ObjectHideFlags: 0
@@ -681,6 +786,7 @@ GameObject:
   - component: {fileID: 1170281349174292323}
   - component: {fileID: 2370998644732532176}
   - component: {fileID: 5744994667043280192}
+  - component: {fileID: 7636627562740740214}
   m_Layer: 0
   m_Name: Bench_UpperLeggie_hi
   m_TagString: Untagged
@@ -751,6 +857,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7636627562740740214
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3908755078209101968}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4196844667247116643, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &4631256944819070967
 GameObject:
   m_ObjectHideFlags: 0
@@ -762,6 +882,7 @@ GameObject:
   - component: {fileID: 2809902520657543648}
   - component: {fileID: 2518626063082255594}
   - component: {fileID: 7057003626659404327}
+  - component: {fileID: 6619582467910445671}
   m_Layer: 0
   m_Name: Bench_Seat_hi
   m_TagString: Untagged
@@ -832,6 +953,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6619582467910445671
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4631256944819070967}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3131434800883863953, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &6603308155628737109
 GameObject:
   m_ObjectHideFlags: 0
@@ -843,6 +978,7 @@ GameObject:
   - component: {fileID: 6165753231021037858}
   - component: {fileID: 5543829445969828097}
   - component: {fileID: 327575791016955885}
+  - component: {fileID: 615964109377445002}
   m_Layer: 0
   m_Name: BenchBullShit_BackLeggie_hi
   m_TagString: Untagged
@@ -913,6 +1049,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &615964109377445002
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6603308155628737109}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3495818745056955570, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
 --- !u!1 &6896127048680757656
 GameObject:
   m_ObjectHideFlags: 0
@@ -955,6 +1105,7 @@ GameObject:
   - component: {fileID: 8682278554154115003}
   - component: {fileID: 3925907540642012379}
   - component: {fileID: 858724485133512526}
+  - component: {fileID: 3222540952720534696}
   m_Layer: 0
   m_Name: Bench_InnerThingy_hi
   m_TagString: Untagged
@@ -1025,3 +1176,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3222540952720534696
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7543479134004320032}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2974591852001385744, guid: 6a040077c85aadc48a4542c82a065be2, type: 3}
